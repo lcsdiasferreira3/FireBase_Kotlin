@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221291951016",
+    "firebase_url": "https://aulasdeandroid-e7f4f.firebaseio.com",
+    "project_id": "aulasdeandroid-e7f4f",
+    "storage_bucket": "aulasdeandroid-e7f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221291951016:android:9bf7a9196ce75eeb",
+        "android_client_info": {
+          "package_name": "firebase.etec.zl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221291951016-e79i71tbp4vdhcoerum4hhnsk97bu3q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.etec.zl",
+            "certificate_hash": "f1597f572188b0fb43dd37ef49e962d31afe86dd"
+          }
+        },
+        {
+          "client_id": "221291951016-q1ketofesf41kq1tqnq5iveev3o1ke9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDef4x_Jpml29DKU6IURQuJHyWKaXumAeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221291951016-q1ketofesf41kq1tqnq5iveev3o1ke9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
